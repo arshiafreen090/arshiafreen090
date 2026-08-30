@@ -16,6 +16,7 @@ I like building things that are not just functional, but feel intuitive and huma
 ---
 ## Skills 
 → Python, Numpy, Pandas, Matplotlibs, Seaborn
+
 → Figma, Canva, Photoshop    
 
 ---
