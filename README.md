@@ -1,49 +1,22 @@
 # Heyaaa! I'm Afreen >.< 
 
-> CSE Undergrad | Designer | Tech Explorer  
+> CSE Undergrad | ML learner | UIUX desinger  
 
 ---
 
 ## About Me 🍜
-I'm a Computer Science undergrad who enjoys blending design and technology.  
+I'm a Computer Science undergrad learning to code and build model  
 I like building things that are not just functional, but feel intuitive and human.  
 
 ---
 
-> Exploring UI/UX, development, and writing.  
-> Recently started experimenting with content creation — learning as I go.
+> Learning ML   
+> Prev i worked in uiux field
 
 ---
-
-## Projects 🤖 
-
-<div align="center">
-
-| Project | Description |
-|--------|-------------|
-| <a href="https://afreen.tech">Portfolio</a> | Personal website showcasing my work |
-| <a href="https://resync.afreen.tech">ReSync AI</a> | AI-powered platform that tailors resumes to job descriptions and matches candidates with the right opportunities *(in development)* |
-
-</div>
-
----
-
-## Design and Blogs 😸  
-
-I enjoy crafting clean, user-focused interfaces and experimenting with layouts.  <a href="https://www.figma.com/proto/g0RgyLXIo9hyipAYYwNu8d/Portfolio?node-id=3-2&t=FcrSXksIFxcdKh8o-1&starting-point-node-id=3%3A2">
-  <img src="https://img.shields.io/badge/Figma%20Portfolio-F24E1E?style=flat&logo=figma&logoColor=white" />
-</a> 
-
-I write about thoughts, experiences, and ideas around growth, creativity, and tech.  <a href="https://medium.com/@afreenaurshi.creates">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" />
-</a>
-
----
-
-## Skills 💅
-→ C++, Python  
-→ Figma, Canva, Photoshop  
-→ HTML, CSS  
+## Skills 
+→ Python, Numpy, Pandas, Matplotlibs, Seaborn
+→ Figma, Canva, Photoshop    
 
 ---
 
