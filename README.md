@@ -1,6 +1,6 @@
 # Heyaaa! I'm Afreen >.< 
 
-> CSE Undergrad | ML learner | UIUX desinger  
+> CSE Undergrad | ML Engineer | UIUX desinger  
 
 ---
 
