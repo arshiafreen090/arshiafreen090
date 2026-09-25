@@ -14,10 +14,14 @@ I like building things that are not just functional, but feel intuitive and huma
 > Prev i worked in uiux field
 
 ---
-## Skills 
-→ Python, Numpy, Pandas, Matplotlibs, Seaborn
+### Skills
 
-→ Figma, Canva, Photoshop    
+**Languages:** Python, C++, SQL  
+**Data Science:** Pandas, NumPy, Matplotlib, Seaborn, EDA, Statistics  
+**Machine Learning:** Scikit-learn, XGBoost, Feature Engineering, Model Evaluation, SHAP  
+**Analytics:** Demand Forecasting, Time-Series Analysis, ETA Prediction, Logistics Analytics  
+**Development:** Streamlit, React, Tailwind CSS, Git, GitHub  
+**Tools:** Jupyter, VS Code, MySQL, WSL, N8N, Figma, Canva 
 
 ---
 
